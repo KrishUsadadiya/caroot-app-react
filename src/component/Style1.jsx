@@ -8,7 +8,6 @@ import { MdOutlineRemoveRedEye } from "react-icons/md";
 const Style1 = () => {
     return (
         <>
-            {/* STYLE START  */}
             <Container>
                 <div className="text-center border-top pt-5">
                     <h1>Style 1</h1>
@@ -169,7 +168,6 @@ const Style1 = () => {
                     </Col>
                 </Row>
             </Container>
-            {/* ST&YLE END  */}
         </>
     )
 }
