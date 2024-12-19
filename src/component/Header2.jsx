@@ -22,7 +22,7 @@ const Header2 = () => {
                             <HiOutlineMenuAlt1 onClick={handleShow} variant="primary" className='border rounded-3' style={{ fontSize: '30px' }} />
                         </Navbar.Brand>
 
-                        {/* HEADER START  */}
+                     
                         <Navbar.Collapse id="basic-navbar-nav">
 
                             <Nav className="ms-auto mt-4 mx-5">
@@ -69,7 +69,7 @@ const Header2 = () => {
                                 </span>
                             </div>
                         </Navbar.Collapse>
-                        {/* HEADER END  */}
+                      
                     </Navbar>
                 </div>
             </Container >
