@@ -4,7 +4,7 @@ import { IoMdStar } from "react-icons/io";
 const Style2 = () => {
     return (
         <>
-            {/* STYLE START  */}
+            
             <Container>
                 <div className="text-center pt-5">
                     <h1 className="mb-3">Style 2</h1>
@@ -73,7 +73,7 @@ const Style2 = () => {
                     </Col>
                 </Row>
             </Container>
-            {/* STYLE END  */}
+           
         </>
     )
 }
